@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panditdhamdhere" alt="panditdhamdhere" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/paditdhamdhere" target="blank"><img src="https://img.shields.io/twitter/follow/paditdhamdhere?logo=twitter&style=for-the-badge" alt="paditdhamdhere" /></a> </p>
+<p align="left"> <a href="https://twitter.com/panditdhamdhere" target="blank"><img src="https://img.shields.io/twitter/follow/panditdhamdhere?logo=twitter&style=for-the-badge" alt="panditdhamdhere" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paditdhamdhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paditdhamdhere" height="30" width="40" /></a>
+<a href="https://twitter.com/panditdhamdhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panditdhamdhere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pandit dhamdhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandit dhamdhere" height="30" width="40" /></a>
 <a href="https://instagram.com/panditdhamdhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panditdhamdhere" height="30" width="40" /></a>
 <a href="https://hashnode.com/@panditdhamdhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@panditdhamdhere" height="30" width="40" /></a>
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panditdhamdhere&show_icons=true&locale=en" alt="panditdhamdhere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panditdhamdhere&" alt="panditdhamdhere" /></p>
+
