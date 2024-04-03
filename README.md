@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/panditdhamdhere" target="blank"><img src="https://img.shields.io/twitter/follow/panditdhamdhere?logo=twitter&style=for-the-badge" alt="panditdhamdhere" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Assembly and formal verification**
 
 - 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](panditdhamdhere.hashnode.dev)
 
