@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](panditdhamdhere.hashnode.dev)
 
-- 💬 Ask me about **JavaScript and Solidity**
+- 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **dhamdherepandit@gmail.com**
 
