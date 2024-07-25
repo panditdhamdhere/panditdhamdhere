@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pandit</h1>
-<h3 align="center">A Young passionate Blockchain developer from India</h3>
+<h3 align="center">Passionate Blockchain developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditdhamdhere&label=Profile%20views&color=0e75b6&style=flat" alt="panditdhamdhere" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/panditdhamdhere" target="blank"><img src="https://img.shields.io/twitter/follow/panditdhamdhere?logo=twitter&style=for-the-badge" alt="panditdhamdhere" /></a> </p>
 
-- 🌱 I’m currently learning **Assembly and formal verification**
+- 🌱 I’m currently learning **Yul Inline assembly, EVM Opcodes**
 
 - 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](panditdhamdhere.hashnode.dev)
 
