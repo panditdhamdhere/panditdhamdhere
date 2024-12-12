@@ -34,5 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panditdhamdhere&" alt="panditdhamdhere" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=panditdhamdhere)](https://git.io/streak-stats)
+
 [![@panditdhamdhere's Holopin board](https://holopin.io/api/user/board?user=panditdhamdhere)](https://holopin.io/@panditdhamdhere)
 
