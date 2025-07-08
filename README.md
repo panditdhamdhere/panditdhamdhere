@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panditdhamdhere&show_icons=true&locale=en" alt="panditdhamdhere" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vert-nine.vercel.app?user=panditdhamdhere&theme=microsoft-dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=panditdhamdhere)](https://git.io/streak-stats)
 
 [![@panditdhamdhere's Holopin board](https://holopin.io/api/user/board?user=panditdhamdhere)](https://holopin.io/@panditdhamdhere)
 
