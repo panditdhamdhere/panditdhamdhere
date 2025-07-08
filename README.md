@@ -6,8 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panditdhamdhere" alt="panditdhamdhere" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/panditdhamdhere" target="blank"><img src="https://img.shields.io/twitter/follow/panditdhamdhere?logo=twitter&style=for-the-badge" alt="panditdhamdhere" /></a> </p>
+- Ex Catapulta
+- Ex The Graph
 
-- 🌱 I’m currently learning **Yul Inline assembly, EVM Opcodes**
+- 🌱 I’m currently learning **Rust, Yul, Assembly**
 
 - 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](panditdhamdhere.hashnode.dev)
 
