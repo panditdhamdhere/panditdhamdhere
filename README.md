@@ -35,5 +35,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=panditdhamdhere)](https://git.io/streak-stats)
 
+[![Pandit's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCCWObI7pjeF83mLxYHH0pgw)](https://www.youtube.com/channel/UCCWObI7pjeF83mLxYHH0pgw)
+
 [![@panditdhamdhere's Holopin board](https://holopin.io/api/user/board?user=panditdhamdhere)](https://holopin.io/@panditdhamdhere)
 
