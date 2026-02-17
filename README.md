@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/panditdhamdhere" target="blank"><img src="https://img.shields.io/twitter/follow/panditdhamdhere?logo=twitter&style=for-the-badge" alt="panditdhamdhere" /></a> </p>
 - Ex Engineer @ Catapulta 
 
-- 🌱 I’m currently learning **Rust, Yul, Assembly**
+- 🌱 I’m currently learning **Rust, Yul**
 
 - 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](panditdhamdhere.hashnode.dev)
 
