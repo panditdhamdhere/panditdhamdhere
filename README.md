@@ -27,7 +27,7 @@
 
 <a href="https://app.daily.dev/panditdhamdhere"><img src="https://api.daily.dev/devcards/3393aa5336a6424f83573e280d50f0fa.png?r=xrp" width="400" alt="Pandit Dhamdhere's Dev Card"/></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=panditdhamdhere &show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=panditdhamdhere&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) 
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=panditdhamdhere)](https://git.io/streak-stats)
 
