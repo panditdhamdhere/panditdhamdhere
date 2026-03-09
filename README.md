@@ -31,6 +31,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=panditdhamdhere)](https://git.io/streak-stats)
 
+### Tech Stack
+
+![Solidity](https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green)
+![NodeJs](https://img.shields.io/badge/NODE_JS-grey?style=for-the-badge&logo=nodedotjs&logoColor=Green)
+![TypeScript](https://img.shields.io/badge/TS-grey?style=for-the-badge&logo=typescript&logoColor=Green)
+![Rust](https://img.shields.io/badge/rust-grey?style=for-the-badge&logo=rust&logoColor=orange)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panditdhamdhere&layout=compact&theme=dark)
 
 [![Pandit's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCCWObI7pjeF83mLxYHH0pgw)](https://www.youtube.com/channel/UCCWObI7pjeF83mLxYHH0pgw)
