@@ -29,6 +29,9 @@
 
 ![Pandit's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/panditdhamdhere?theme=radical&Ring=FF77AA&Border=9D00FF&Text=FFFFFF)
 
+## Most Written Languages
+![](https://github-readme-stats-gules-three-60.vercel.app/api/top-langs/?username=panditdhamdhere&hide=javascript,css,scss,html&theme=tokyonight)
+
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=panditdhamdhere)](https://git.io/streak-stats)
 
 ### Tech Stack
