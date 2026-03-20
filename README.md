@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/panditdhamdhere" target="blank"><img src="https://img.shields.io/twitter/follow/panditdhamdhere?logo=twitter&style=for-the-badge" alt="panditdhamdhere" /></a> </p>
 - Ex Engineer @ Catapulta 
+- Ex The Graph dao
 
 - 🌱 I’m currently learning **genAi, agentic Engineering, Rust**
 
