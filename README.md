@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **genAi, agentic Engineering, Rust**
 
-- 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](panditdhamdhere.hashnode.dev)
+- 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](https://panditdhamdhere.hashnode.dev/)
 
 - 💬 Ask me about **Solidity**
 
