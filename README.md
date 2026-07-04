@@ -10,6 +10,7 @@
 - Ex The Graph dao
 
 - 🌱 I’m currently learning **genAi, agentic Engineering, Rust**
+- Learn Rust - https://borrowed-and-owned.vercel.app/
 
 - 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](https://panditdhamdhere.hashnode.dev/)
 
