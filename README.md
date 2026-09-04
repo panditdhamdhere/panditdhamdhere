@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pandit</h1>
-<h3 align="center">Passionate Blockchain developer from India</h3>
+<h3 align="center">Passionate Blockchain Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditdhamdhere&label=Profile%20views&color=0e75b6&style=flat" alt="panditdhamdhere" /> </p>
 
@@ -12,7 +12,7 @@
 - Ex Engineer ProovePay
 
 - 🌱 I’m currently learning **genAi, agentic Engineering, Rust**
-- Learn Rust - https://borrowed-and-owned.vercel.app/
+- Learn Rust created by me - https://borrowed-and-owned.vercel.app/
 
 - 📝 I regularly write articles on [panditdhamdhere.hashnode.dev](https://panditdhamdhere.hashnode.dev/)
 
